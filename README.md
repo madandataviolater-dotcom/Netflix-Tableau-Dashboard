@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard analysing 6,234 Netflix titles (movies and TV shows) to understand what kind of content dominates the catalogue, where it comes from, and how the library has grown over time.
 
-🔗 **Live dashboard:** [View on Tableau Public](TABLEAU_PUBLIC_LINK_HERE)
+🔗 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/views/Tableaudashboard_NETFLXI/NETFLIX)
 
 ![Netflix Dashboard](images/dashboard.png)
 
